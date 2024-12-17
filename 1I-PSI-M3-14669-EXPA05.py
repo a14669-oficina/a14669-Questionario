@@ -43,9 +43,9 @@ def exportar_resultados(respostas):
 
 def main():
   while True:
-      print("-" * 37)
-      print("Sistema de Questionário de Satisfação")
-      print("-" * 37 + "\n")
+      print("-" * 41)
+      print("| Sistema de Questionário de Satisfação |")
+      print("-" * 41 + "\n")
       print("\n1. Responder ao Questionário")
       print("2. Sair")
       opcao = input("\nEscolha uma opção: ")
