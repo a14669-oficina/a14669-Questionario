@@ -15,3 +15,4 @@ Após feito, vai perguntar em que nome, nome do ficheiro, quer guardar as respos
 
 Introduza o nome do ficheiro para guardar os resultados (ex: resultados.txt): EXEMPLO.txt
 Depois deste passo, vai abrir um ficheiro diferente criado automaticamente com o nome escolhido e com as diferentes respostas.
+<h6>OFICINA, Escola Profissional &copy; 2024</h6>
